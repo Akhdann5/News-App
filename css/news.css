@@ -1,0 +1,41 @@
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    border: solid 1px #333;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+
+.container h1 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.news-item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.news-item h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.news-item p {
+    font-size: 16px;
+    color: #555;
+    line-height: 1.5;
+}
+
+.news-item .news-date {
+    font-size: 14px;
+    color: #999;
+    margin-top: 10px;
+    display: block;
+    text-align: right;
+}
